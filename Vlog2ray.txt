@@ -1,16 +1,7 @@
-vless://5e442247-f33d-4104-8644-ba77bf6e5a5b@www.speedtest.net:80?encryption=none&security=none&type=ws&host=mmad.lemoex.blog&path=%2Fmmad%3Fed%3D2560#%F0%9F%87%A9%F0%9F%87%AA242MMad-bsuj6m1l
-vless://5e442247-f33d-4104-8644-ba77bf6e5a5b@www.speedtest.net:8080?encryption=none&security=none&type=ws&host=mmad.lemoex.blog&path=%2Fmmad%3Fed%3D2560#%F0%9F%87%A9%F0%9F%87%AA242MMad-bsuj6m1l
-vless://5e442247-f33d-4104-8644-ba77bf6e5a5b@104.17.148.22:80?encryption=none&security=none&type=ws&host=mmad.lemoex.blog&path=%2Fmmad%3Fed%3D2560#%F0%9F%87%A9%F0%9F%87%AA242MMad-bsuj6m1l
-vless://5e442247-f33d-4104-8644-ba77bf6e5a5b@104.17.148.22:2052?encryption=none&security=none&type=ws&host=mmad.lemoex.blog&path=%2Fmmad%3Fed%3D2560#%F0%9F%87%A9%F0%9F%87%AA242MMad-bsuj6m1l
-vless://5e442247-f33d-4104-8644-ba77bf6e5a5b@104.17.148.22:8080?encryption=none&security=none&type=ws&host=mmad.lemoex.blog&path=%2Fmmad%3Fed%3D2560#%F0%9F%87%A9%F0%9F%87%AA242MMad-bsuj6m1l
-vless://5e442247-f33d-4104-8644-ba77bf6e5a5b@172.67.17.195:80?encryption=none&security=none&type=ws&host=mmad.lemoex.blog&path=%2Fmmad%3Fed%3D2560#%F0%9F%87%A9%F0%9F%87%AA242MMad-bsuj6m1l
-vless://5e442247-f33d-4104-8644-ba77bf6e5a5b@172.67.164.239:80?encryption=none&security=none&type=ws&host=mmad.lemoex.blog&path=%2Fmmad%3Fed%3D2560#%F0%9F%87%A9%F0%9F%87%AA242MMad-bsuj6m1l
-vless://5e442247-f33d-4104-8644-ba77bf6e5a5b@104.17.147.22:8880?encryption=none&security=none&type=ws&host=mmad.lemoex.blog&path=%2Fmmad%3Fed%3D2560#%F0%9F%87%A9%F0%9F%87%AA242MMad-bsuj6m1l
-vless://5e442247-f33d-4104-8644-ba77bf6e5a5b@172.66.137.85:2082?encryption=none&security=none&type=ws&host=mmad.lemoex.blog&path=%2Fmmad%3Fed%3D2560#%F0%9F%87%A9%F0%9F%87%AA242MMad-bsuj6m1l
-vless://5e442247-f33d-4104-8644-ba77bf6e5a5b@172.67.38.63:2095?encryption=none&security=none&type=ws&host=mmad.lemoex.blog&path=%2Fmmad%3Fed%3D2560#%F0%9F%87%A9%F0%9F%87%AA242MMad-bsuj6m1l
-vless://5e442247-f33d-4104-8644-ba77bf6e5a5b@104.16.104.151:8080?encryption=none&security=none&type=ws&host=mmad.lemoex.blog&path=%2Fmmad%3Fed%3D2560#%F0%9F%87%A9%F0%9F%87%AA242MMad-bsuj6m1l
-
-
+vless://76cb7bca-ef08-4af3-a1ac-e3b40c944f3a@time.is:2052?encryption=none&security=none&type=httpupgrade&host=afrodita.lemoex.blog&path=%2Fmmad%3Fed%3D2560#%F0%9F%87%A9%F0%9F%87%AA243MMad-H1
+vless://76cb7bca-ef08-4af3-a1ac-e3b40c944f3a@www.speedtest.net:2052?encryption=none&security=none&type=httpupgrade&host=afrodita.lemoex.blog&path=%2Fmmad%3Fed%3D2560#%F0%9F%87%A9%F0%9F%87%AA243MMad-H2
+vless://88a6dbd8-eb00-44c5-abc5-963d78fa5985@time.is:8080?encryption=none&security=none&type=ws&host=afrodita.lemoex.blog&path=%2Fmmad%3Fed%3D2560#%F0%9F%87%A9%F0%9F%87%AA243MMad-WS1
+vless://88a6dbd8-eb00-44c5-abc5-963d78fa5985@www.speedtest.net:8080?encryption=none&security=none&type=ws&host=afrodita.lemoex.blog&path=%2Fmmad%3Fed%3D2560#%F0%9F%87%A9%F0%9F%87%AA243MMad-WS2
 
 
 
