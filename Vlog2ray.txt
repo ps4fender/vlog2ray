@@ -1,7 +1,7 @@
-vless://76cb7bca-ef08-4af3-a1ac-e3b40c944f3a@time.is:2052?encryption=none&security=none&type=httpupgrade&host=afrodita.lemoex.blog&path=%2Fmmad%3Fed%3D2560#%F0%9F%87%A9%F0%9F%87%AA243MMad-H1
-vless://76cb7bca-ef08-4af3-a1ac-e3b40c944f3a@www.speedtest.net:2052?encryption=none&security=none&type=httpupgrade&host=afrodita.lemoex.blog&path=%2Fmmad%3Fed%3D2560#%F0%9F%87%A9%F0%9F%87%AA243MMad-H2
-vless://88a6dbd8-eb00-44c5-abc5-963d78fa5985@time.is:8080?encryption=none&security=none&type=ws&host=afrodita.lemoex.blog&path=%2Fmmad%3Fed%3D2560#%F0%9F%87%A9%F0%9F%87%AA243MMad-WS1
-vless://88a6dbd8-eb00-44c5-abc5-963d78fa5985@www.speedtest.net:8080?encryption=none&security=none&type=ws&host=afrodita.lemoex.blog&path=%2Fmmad%3Fed%3D2560#%F0%9F%87%A9%F0%9F%87%AA243MMad-WS2
+vless://0f129ea3-038c-4d88-8de0-8e78abdee328@de.hpcdn.info:443?encryption=none&security=tls&sni=afrodita.lemoex.blog&fp=random&type=ws&host=afrodita.lemoex.blog&path=%2F1001%2Fmmad#%F0%9F%87%A9%F0%9F%87%AA244MMad-WS
+vless://7e9142ad-b378-4c42-982e-1a3f866b00ea@de.hpcdn.info:443?encryption=none&security=tls&sni=afrodita.lemoex.blog&fp=random&type=httpupgrade&host=afrodita.lemoex.blog&path=%2F1002%2Fmmad#%F0%9F%87%A9%F0%9F%87%AA244MMad-H
+vless://d50fcaeb-80c7-46ed-9ca8-2a6c708b6c67@de.hpcdn.info:443?encryption=none&security=tls&sni=afrodita.lemoex.blog&fp=random&type=xhttp&host=afrodita.lemoex.blog&path=%2F1003%2Fmmad&mode=auto#%F0%9F%87%A9%F0%9F%87%AA244MMad-xH
+
 
 
 
