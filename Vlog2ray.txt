@@ -1,10 +1,4 @@
-vless://6d5df584-0ceb-4090-a462-8edf34753fee@188.114.97.6:443?encryption=none&security=tls&sni=cdncf.birex.ir&insecure=1&allowInsecure=1&type=xhttp&host=cdncf.birex.ir&path=%2F28562%2Fprocessingmedia&mode=auto#%F0%9F%87%A9%F0%9F%87%AA500MMad-CF-xH-TLS
-vless://57f3b20d-a050-4f8e-8dcc-dea4c8dbf83e@45.130.125.76:443?path=%2F41477%2Fmedia&security=tls&encryption=mlkem768x25519plus.native.0rtt.AvcBWSlqG-kPjUS870Fun9hFpNWHN7GiCtiXCtFLxR8&insecure=1&host=cdncf.birex.ir&type=httpupgrade&allowInsecure=1&sni=cdncf.birex.ir#%F0%9F%87%A9%F0%9F%87%AA499MMad-CF-xH-TLS1
-vless://57f3b20d-a050-4f8e-8dcc-dea4c8dbf83e@188.114.97.6:443?path=%2F41477%2Fmedia&security=tls&encryption=mlkem768x25519plus.native.0rtt.AvcBWSlqG-kPjUS870Fun9hFpNWHN7GiCtiXCtFLxR8&insecure=1&host=cdncf.birex.ir&type=httpupgrade&allowInsecure=1&sni=cdncf.birex.ir#%F0%9F%87%A9%F0%9F%87%AA499MMad-CF-xH-TLS2
-vless://7a113cde-d666-410e-b31d-7caaec40a783@melli.irandoc.info:443?path=%2F35154%2Fmedia&security=tls&encryption=mlkem768x25519plus.native.0rtt.RzMRNMZBWSye0zXg1q-mNR2tx0urtEBM5LXDaF4_Ejo&insecure=1&host=melli.irandoc.info&type=ws&allowInsecure=1&sni=melli.irandoc.info#%F0%9F%87%A9%F0%9F%87%AA499MMad-Edge-WS-TLS1
-vless://7a113cde-d666-410e-b31d-7caaec40a783@43.175.168.137:443?path=%2F35154%2Fmedia&security=tls&encryption=mlkem768x25519plus.native.0rtt.RzMRNMZBWSye0zXg1q-mNR2tx0urtEBM5LXDaF4_Ejo&insecure=1&host=melli.irandoc.info&type=ws&allowInsecure=1&sni=melli.irandoc.info#%F0%9F%87%A9%F0%9F%87%AA499MMad-Edge-WS-TLS2
-
-
+vless://49968f89-ccd3-4e59-8e83-c6a1a4c00ec8@43.175.168.191:443?encryption=none&security=tls&sni=sbs.irandoc.info&fp=random&insecure=0&allowInsecure=0&fm=%7B%22tcp%22%3A%5B%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%22tlshello%22%2C%22length%22%3A%221-2%22%2C%22delay%22%3A%221-0%22%2C%22maxSplit%22%3A%223-6%22%7D%7D%5D%7D&type=ws&host=melli.irandoc.info&path=%2F53405%2Fprocessing#%F0%9F%87%A9%F0%9F%87%AA501MMad-Edge-WS-TLS3
 
 
 
