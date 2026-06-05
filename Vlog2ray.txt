@@ -1,7 +1,9 @@
-vless://d4c747c3-9845-45d4-9b92-365015422867@cncdn.cc:443?encryption=none&security=tls&sni=sni.mmadcoffee.info&fp=random&insecure=0&allowInsecure=0&type=ws&host=cdn.mmadcoffee.info&path=%2F54178%2F365015422867%2F#%F0%9F%87%A9%F0%9F%87%AA506MMad-WS-TLS1
-vless://d4c747c3-9845-45d4-9b92-365015422867@cncdn.cc:80?encryption=none&security=none&sni=sni.mmadcoffee.info&fp=random&type=ws&host=cdn.mmadcoffee.info&path=%2F54178%2F365015422867%2F#%F0%9F%87%A9%F0%9F%87%AA506MMad-WS-noTLS1
-vless://d4c747c3-9845-45d4-9b92-365015422867@www.lianchuang123.com:443?encryption=none&security=tls&sni=sni.mmadcoffee.info&fp=random&insecure=0&allowInsecure=0&type=ws&host=cdn.mmadcoffee.info&path=%2F54178%2F365015422867%2F#%F0%9F%87%A9%F0%9F%87%AA506MMad-WS-TLS2
-vless://d4c747c3-9845-45d4-9b92-365015422867@www.lianchuang123.com:80?encryption=none&security=none&sni=sni.mmadcoffee.info&fp=random&type=ws&host=cdn.mmadcoffee.info&path=%2F54178%2F365015422867%2F#%F0%9F%87%A9%F0%9F%87%AA506MMad-WS-noTLS2
+vless://2c473bc0-484c-49d5-8cf3-c89d26b724fe@www.lianchuang123.com:443?path=%2F16838%2Fc89d26b724fe%2F&security=tls&encryption=none&insecure=0&host=smtp.mmadcoffee.info&fp=random&type=ws&allowInsecure=0&sni=sni.mmadcoffee.info#%F0%9F%87%A9%F0%9F%87%AA508MMad-WS-TLS1
+vless://2c473bc0-484c-49d5-8cf3-c89d26b724fe@www.lianchuang123.com:80?path=%2F16838%2Fc89d26b724fe%2F&security=&encryption=none&host=smtp.mmadcoffee.info&fp=random&type=ws&sni=sni.mmadcoffee.info#%F0%9F%87%A9%F0%9F%87%AA508MMad-WS-noTLS1
+vless://2c473bc0-484c-49d5-8cf3-c89d26b724fe@cncdn.cc:443?path=%2F16838%2Fc89d26b724fe%2F&security=tls&encryption=none&insecure=0&host=smtp.mmadcoffee.info&fp=random&type=ws&allowInsecure=0&sni=sni.mmadcoffee.info#%F0%9F%87%A9%F0%9F%87%AA508MMad-WS-TLS2
+vless://2c473bc0-484c-49d5-8cf3-c89d26b724fe@cncdn.cc:80?path=%2F16838%2Fc89d26b724fe%2F&security=&encryption=none&host=smtp.mmadcoffee.info&fp=random&type=ws&sni=sni.mmadcoffee.info#%F0%9F%87%A9%F0%9F%87%AA508MMad-WS-noTLS2
+vless://2c473bc0-484c-49d5-8cf3-c89d26b724fe@43.175.169.174:443?path=%2F16838%2Fc89d26b724fe%2F&security=tls&encryption=none&insecure=0&host=smtp.mmadcoffee.info&fp=random&type=ws&allowInsecure=0&sni=sni.mmadcoffee.info#%F0%9F%87%A9%F0%9F%87%AA508MMad-WS-TLS3
+vless://2c473bc0-484c-49d5-8cf3-c89d26b724fe@43.175.169.174:80?path=%2F16838%2Fc89d26b724fe%2F&security=&encryption=none&host=smtp.mmadcoffee.info&fp=random&type=ws&sni=sni.mmadcoffee.info#%F0%9F%87%A9%F0%9F%87%AA508MMad-WS-noTLS3
 
 
 
