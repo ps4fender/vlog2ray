@@ -1,9 +1,7 @@
-vless://37c8b06a-25cf-42d7-b2ea-31d3c8561998@www.lianchuang123.com:443?path=%2F14708%2F31d3c8561998%2F&security=tls&encryption=none&insecure=0&host=imap.mmadcoffee.info&fp=random&type=ws&allowInsecure=0&sni=sni.mmadcoffee.info#%F0%9F%87%A9%F0%9F%87%AA509MMad-WS-TLS1
-vless://37c8b06a-25cf-42d7-b2ea-31d3c8561998@www.lianchuang123.com:80?path=%2F14708%2F31d3c8561998%2F&security=&encryption=none&host=imap.mmadcoffee.info&type=ws#%F0%9F%87%A9%F0%9F%87%AA509MMad-WS-noTLS1
-vless://37c8b06a-25cf-42d7-b2ea-31d3c8561998@cncdn.cc:443?path=%2F14708%2F31d3c8561998%2F&security=tls&encryption=none&insecure=0&host=imap.mmadcoffee.info&fp=random&type=ws&allowInsecure=0&sni=sni.mmadcoffee.info#%F0%9F%87%A9%F0%9F%87%AA509MMad-WS-TLS2
-vless://37c8b06a-25cf-42d7-b2ea-31d3c8561998@cncdn.cc:80?path=%2F14708%2F31d3c8561998%2F&security=&encryption=none&host=imap.mmadcoffee.info&type=ws#%F0%9F%87%A9%F0%9F%87%AA509MMad-WS-noTLS2
-vless://37c8b06a-25cf-42d7-b2ea-31d3c8561998@43.175.169.174:443?path=%2F14708%2F31d3c8561998%2F&security=tls&encryption=none&insecure=0&host=imap.mmadcoffee.info&fp=random&type=ws&allowInsecure=0&sni=sni.mmadcoffee.info#%F0%9F%87%A9%F0%9F%87%AA509MMad-WS-TLS3
-vless://37c8b06a-25cf-42d7-b2ea-31d3c8561998@43.175.169.174:80?path=%2F14708%2F31d3c8561998%2F&security=&encryption=none&host=imap.mmadcoffee.info&type=ws#%F0%9F%87%A9%F0%9F%87%AA509MMad-WS-noTLS3
+vless://58773b8d-8a46-4a5b-b7b4-920147c2d776@api.xk.ee:443?path=%2F17330%2F58773b8d%2F&security=tls&encryption=none&insecure=0&host=ws.mmadcoffee.info&fp=random&type=ws&allowInsecure=0&sni=sni.mmadcoffee.info#%F0%9F%87%A9%F0%9F%87%AA510MMad-WS-TLS1
+vless://58773b8d-8a46-4a5b-b7b4-920147c2d776@hn.aitnt.cn:443?path=%2F17330%2F58773b8d%2F&security=tls&encryption=none&insecure=0&host=ws.mmadcoffee.info&fp=random&type=ws&allowInsecure=0&sni=sni.mmadcoffee.info#%F0%9F%87%A9%F0%9F%87%AA510MMad-WS-TLS2
+vless://58773b8d-8a46-4a5b-b7b4-920147c2d776@api.xk.ee:80?path=%2F17330%2F58773b8d%2F&security=&encryption=none&host=ws.mmadcoffee.info&type=ws#%F0%9F%87%A9%F0%9F%87%AA510MMad-WS-noTLS1
+vless://58773b8d-8a46-4a5b-b7b4-920147c2d776@hn.aitnt.cn:80?path=%2F17330%2F58773b8d%2F&security=&encryption=none&host=ws.mmadcoffee.info&type=ws#%F0%9F%87%A9%F0%9F%87%AA510MMad-WS-noTLS2
 
 
 
