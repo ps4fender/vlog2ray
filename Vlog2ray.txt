@@ -1,7 +1,9 @@
-vless://58773b8d-8a46-4a5b-b7b4-920147c2d776@api.xk.ee:443?path=%2F17330%2F58773b8d%2F&security=tls&encryption=none&insecure=0&host=ws.mmadcoffee.info&fp=random&type=ws&allowInsecure=0&sni=sni.mmadcoffee.info#%F0%9F%87%A9%F0%9F%87%AA510MMad-WS-TLS1
-vless://58773b8d-8a46-4a5b-b7b4-920147c2d776@hn.aitnt.cn:443?path=%2F17330%2F58773b8d%2F&security=tls&encryption=none&insecure=0&host=ws.mmadcoffee.info&fp=random&type=ws&allowInsecure=0&sni=sni.mmadcoffee.info#%F0%9F%87%A9%F0%9F%87%AA510MMad-WS-TLS2
-vless://58773b8d-8a46-4a5b-b7b4-920147c2d776@api.xk.ee:80?path=%2F17330%2F58773b8d%2F&security=&encryption=none&host=ws.mmadcoffee.info&type=ws#%F0%9F%87%A9%F0%9F%87%AA510MMad-WS-noTLS1
-vless://58773b8d-8a46-4a5b-b7b4-920147c2d776@hn.aitnt.cn:80?path=%2F17330%2F58773b8d%2F&security=&encryption=none&host=ws.mmadcoffee.info&type=ws#%F0%9F%87%A9%F0%9F%87%AA510MMad-WS-noTLS2
+vless://e37cb81c-221c-47af-9e27-1145b1795aeb@img.openaether.cn:443?path=%2F16509%2Fe37cb81c&security=tls&encryption=none&insecure=0&host=dpi.mmadcoffee.info&fp=random&type=ws&allowInsecure=0&sni=sni.mmadcoffee.info#%F0%9F%87%A9%F0%9F%87%AA511MMad-Edge-WS1
+vless://e37cb81c-221c-47af-9e27-1145b1795aeb@www.spark.red:443?path=%2F16509%2Fe37cb81c&security=tls&encryption=none&insecure=0&host=dpi.mmadcoffee.info&fp=random&type=ws&allowInsecure=0&sni=sni.mmadcoffee.info#%F0%9F%87%A9%F0%9F%87%AA511MMad-Edge-WS2
+vless://e37cb81c-221c-47af-9e27-1145b1795aeb@img.openaether.cn:443?path=%2F16509%2Fe37cb81c&security=tls&encryption=none&insecure=0&host=dpi.mmadcoffee.info&fp=random&type=ws&allowInsecure=0&sni=sni.mmadcoffee.info#%F0%9F%87%A9%F0%9F%87%AA512MMad-Edge-WS1
+vless://e37cb81c-221c-47af-9e27-1145b1795aeb@www.spark.red:443?path=%2F16509%2Fe37cb81c&security=tls&encryption=none&insecure=0&host=dpi.mmadcoffee.info&fp=random&type=ws&allowInsecure=0&sni=sni.mmadcoffee.info#%F0%9F%87%A9%F0%9F%87%AA512MMad-Edge-WS2
+vless://85c708c4-86d4-41ca-a1da-b7409eaba89f@188.114.97.6:8443?mode=auto&path=%2Fmediaprocessing&security=tls&encryption=mlkem768x25519plus.native.0rtt.V7irbt2L6QkBqgMDjZWgAawx60jNFEnaUxmAOexBrmA&insecure=0&host=cdn.mmad.kdns.fr&fp=chrome&type=xhttp&allowInsecure=0&sni=cdn.mmad.kdns.fr#%F0%9F%87%A9%F0%9F%87%AA511MMad-xH-TLS1
+vless://85c708c4-86d4-41ca-a1da-b7409eaba89f@45.130.125.20:8443?mode=auto&path=%2Fmediaprocessing&security=tls&encryption=mlkem768x25519plus.native.0rtt.V7irbt2L6QkBqgMDjZWgAawx60jNFEnaUxmAOexBrmA&insecure=0&host=cdn.mmad.kdns.fr&fp=chrome&type=xhttp&allowInsecure=0&sni=cdn.mmad.kdns.fr#%F0%9F%87%A9%F0%9F%87%AA511MMad-xH-TLS2
 
 
 
