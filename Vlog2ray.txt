@@ -1,9 +1,7 @@
-vless://e37cb81c-221c-47af-9e27-1145b1795aeb@img.openaether.cn:443?path=%2F16509%2Fe37cb81c&security=tls&encryption=none&insecure=0&host=dpi.mmadcoffee.info&fp=random&type=ws&allowInsecure=0&sni=sni.mmadcoffee.info#%F0%9F%87%A9%F0%9F%87%AA511MMad-Edge-WS1
-vless://e37cb81c-221c-47af-9e27-1145b1795aeb@www.spark.red:443?path=%2F16509%2Fe37cb81c&security=tls&encryption=none&insecure=0&host=dpi.mmadcoffee.info&fp=random&type=ws&allowInsecure=0&sni=sni.mmadcoffee.info#%F0%9F%87%A9%F0%9F%87%AA511MMad-Edge-WS2
-vless://e37cb81c-221c-47af-9e27-1145b1795aeb@img.openaether.cn:443?path=%2F16509%2Fe37cb81c&security=tls&encryption=none&insecure=0&host=dpi.mmadcoffee.info&fp=random&type=ws&allowInsecure=0&sni=sni.mmadcoffee.info#%F0%9F%87%A9%F0%9F%87%AA512MMad-Edge-WS1
-vless://e37cb81c-221c-47af-9e27-1145b1795aeb@www.spark.red:443?path=%2F16509%2Fe37cb81c&security=tls&encryption=none&insecure=0&host=dpi.mmadcoffee.info&fp=random&type=ws&allowInsecure=0&sni=sni.mmadcoffee.info#%F0%9F%87%A9%F0%9F%87%AA512MMad-Edge-WS2
-vless://85c708c4-86d4-41ca-a1da-b7409eaba89f@188.114.97.6:8443?mode=auto&path=%2Fmediaprocessing&security=tls&encryption=mlkem768x25519plus.native.0rtt.V7irbt2L6QkBqgMDjZWgAawx60jNFEnaUxmAOexBrmA&insecure=0&host=cdn.mmad.kdns.fr&fp=chrome&type=xhttp&allowInsecure=0&sni=cdn.mmad.kdns.fr#%F0%9F%87%A9%F0%9F%87%AA511MMad-xH-TLS1
-vless://85c708c4-86d4-41ca-a1da-b7409eaba89f@45.130.125.20:8443?mode=auto&path=%2Fmediaprocessing&security=tls&encryption=mlkem768x25519plus.native.0rtt.V7irbt2L6QkBqgMDjZWgAawx60jNFEnaUxmAOexBrmA&insecure=0&host=cdn.mmad.kdns.fr&fp=chrome&type=xhttp&allowInsecure=0&sni=cdn.mmad.kdns.fr#%F0%9F%87%A9%F0%9F%87%AA511MMad-xH-TLS2
+vless://f41a4ea3-c3d9-48cd-b0c7-7b352945d37f@img.openaether.cn:443?path=%2F14223%2Fapi&security=tls&encryption=none&insecure=0&host=api.mmadcoffee.info&fp=chrome&type=ws&allowInsecure=0&sni=sni.mmadcoffee.info#%F0%9F%87%A9%F0%9F%87%AA512MMad-Edge-WS1
+vless://f41a4ea3-c3d9-48cd-b0c7-7b352945d37f@www.jianjimi.cn:443?path=%2F14223%2Fapi&security=tls&encryption=none&insecure=0&host=api.mmadcoffee.info&fp=chrome&type=ws&allowInsecure=0&sni=sni.mmadcoffee.info#%F0%9F%87%A9%F0%9F%87%AA512MMad-Edge-WS2
+vless://15f63359-698d-433e-be34-425adb128bf9@188.114.97.6:2053?mode=auto&path=%2Fmediaprocessing&security=tls&encryption=none&insecure=0&host=api.mmad.kdns.fr&fp=chrome&type=xhttp&allowInsecure=0&sni=sni.mmad.kdns.fr#%F0%9F%87%A9%F0%9F%87%AA511MMad-CF-xH1
+vless://15f63359-698d-433e-be34-425adb128bf9@45.130.125.20:2053?mode=auto&path=%2Fmediaprocessing&security=tls&encryption=none&insecure=0&host=api.mmad.kdns.fr&fp=chrome&type=xhttp&allowInsecure=0&sni=sni.mmad.kdns.fr#%F0%9F%87%A9%F0%9F%87%AA513MMad-CF-xH2
 
 
 
