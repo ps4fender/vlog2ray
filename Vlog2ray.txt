@@ -1,7 +1,8 @@
-vless://f41a4ea3-c3d9-48cd-b0c7-7b352945d37f@img.openaether.cn:443?path=%2F14223%2Fapi&security=tls&encryption=none&insecure=0&host=api.mmadcoffee.info&fp=chrome&type=ws&allowInsecure=0&sni=sni.mmadcoffee.info#%F0%9F%87%A9%F0%9F%87%AA512MMad-Edge-WS1
-vless://f41a4ea3-c3d9-48cd-b0c7-7b352945d37f@www.jianjimi.cn:443?path=%2F14223%2Fapi&security=tls&encryption=none&insecure=0&host=api.mmadcoffee.info&fp=chrome&type=ws&allowInsecure=0&sni=sni.mmadcoffee.info#%F0%9F%87%A9%F0%9F%87%AA512MMad-Edge-WS2
-vless://15f63359-698d-433e-be34-425adb128bf9@188.114.97.6:2053?mode=auto&path=%2Fmediaprocessing&security=tls&encryption=none&insecure=0&host=api.mmad.kdns.fr&fp=chrome&type=xhttp&allowInsecure=0&sni=sni.mmad.kdns.fr#%F0%9F%87%A9%F0%9F%87%AA511MMad-CF-xH1
-vless://15f63359-698d-433e-be34-425adb128bf9@45.130.125.20:2053?mode=auto&path=%2Fmediaprocessing&security=tls&encryption=none&insecure=0&host=api.mmad.kdns.fr&fp=chrome&type=xhttp&allowInsecure=0&sni=sni.mmad.kdns.fr#%F0%9F%87%A9%F0%9F%87%AA513MMad-CF-xH2
+vless://65309b8f-e98d-432e-be20-b9d39a124d86@img.openaether.cn:443?path=%2F22115%2Fapi&security=tls&encryption=none&insecure=0&host=api.mmadcoffee.info&fp=chrome&type=ws&allowInsecure=0&sni=sni.mmadcoffee.info#%F0%9F%87%A9%F0%9F%87%AA513MMad-Edge-WS1
+vless://65309b8f-e98d-432e-be20-b9d39a124d86@www.jianjimi.cn:443?path=%2F22115%2Fapi&security=tls&encryption=none&insecure=0&host=api.mmadcoffee.info&fp=chrome&type=ws&allowInsecure=0&sni=sni.mmadcoffee.info#%F0%9F%87%A9%F0%9F%87%AA514MMad-Edge-WS2
+vless://99899fb0-b47f-4eab-ac4f-7fe47c8bdd2c@188.114.97.6:8443?mode=auto&path=%2Fmediaprocessing&security=tls&encryption=none&insecure=0&host=api.mmad.kdns.fr&fp=chrome&type=xhttp&allowInsecure=0&sni=sni.mmad.kdns.fr#%F0%9F%87%A9%F0%9F%87%AA513MMad-CF-xH1
+vless://99899fb0-b47f-4eab-ac4f-7fe47c8bdd2c@45.130.125.20:8443?mode=auto&path=%2Fmediaprocessing&security=tls&encryption=none&insecure=0&host=api.mmad.kdns.fr&fp=chrome&type=xhttp&allowInsecure=0&sni=sni.mmad.kdns.fr#%F0%9F%87%A9%F0%9F%87%AA514MMad-CF-xH2
+
 
 
 
