@@ -1,5 +1,10 @@
-vless://317c8bd5-2e89-4bfb-9513-a37b8e29427f@mail.mmadcoffee.info:443?encryption=none&security=tls&sni=sni.mmadcoffee.info&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=mail.mmadcoffee.info&path=%2F19426%2Fmmad#%F0%9F%87%A9%F0%9F%87%AA518MMad-Edge-WS1
-vless://317c8bd5-2e89-4bfb-9513-a37b8e29427f@cms.umtheme.com:443?encryption=none&security=tls&sni=sni.mmadcoffee.info&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=mail.mmadcoffee.info&path=%2F19426%2Fmmad#%F0%9F%87%A9%F0%9F%87%AA518MMad-Edge-WS2
+vless://a9fbf3ba-01b8-4f93-860e-0193aa76a6c0@smtp.mmadcoffee.info:443?path=%2F19428%2Fmmad&security=tls&encryption=none&insecure=0&host=smtp.mmadcoffee.info&fp=chrome&type=ws&allowInsecure=0&sni=sni.mmadcoffee.info#%F0%9F%87%A9%F0%9F%87%AA519MMad-Edge-WS1
+vless://3e45d26c-a939-45b8-9545-143435882983@45.130.125.20:8443?mode=auto&path=%2Fmedia&security=tls&encryption=none&insecure=0&host=smtp.arvan.kdns.fr&fp=chrome&type=xhttp&allowInsecure=0&sni=sni.arvan.kdns.fr#%F0%9F%87%A9%F0%9F%87%AA519MMad-CF-xH1
+vless://a9fbf3ba-01b8-4f93-860e-0193aa76a6c0@cms.umtheme.com:443?path=%2F19428%2Fmmad&security=tls&encryption=none&insecure=0&host=smtp.mmadcoffee.info&fp=chrome&type=ws&allowInsecure=0&sni=sni.mmadcoffee.info#%F0%9F%87%A9%F0%9F%87%AA519MMad-Edge-WS2
+vless://3e45d26c-a939-45b8-9545-143435882983@188.114.97.6:8443?mode=auto&path=%2Fmedia&security=tls&encryption=none&insecure=0&host=smtp.arvan.kdns.fr&fp=chrome&type=xhttp&allowInsecure=0&sni=sni.arvan.kdns.fr#%F0%9F%87%A9%F0%9F%87%AA519MMad-CF-xH2
+vmess://eyJhZGQiOiIxMzUuMTI1LjE5MS43MCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiMTM1LjEyNS4xOTEuNzAiLCJpZCI6ImM2ZGU1ZDJkLWIwYjAtNDM0OC05NmNkLTNhNzM2MmQ5Y2FkMiIsImluc2VjdXJlIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii92bWVzcyIsInBvcnQiOiI4NDQzIiwicHMiOiJoYW1pZDc4Iiwic2N5IjoiYXV0byIsInNuaSI6InNuYXBwLmlyIiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=
+trojan://humanity@216.24.57.1:443?path=%2Fassignment&security=tls&insecure=0&type=ws&allowInsecure=0&sni=www.calmloud.com#freenet_vt
+vless://5f65c1ae-9e7a-48ea-8ecf-6822365cd177@vxc.galardoxtn.ir:443?path=%2F&security=tls&encryption=none&insecure=1&host=apiv2.global.ssl.fastly.net&type=ws&allowInsecure=1&sni=speedtest.net%40freenettir%20%F0%9F%8D%8E#freenet_vt
 
 
 
