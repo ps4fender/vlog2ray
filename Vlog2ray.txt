@@ -1,6 +1,6 @@
 vless://5420cd86-f9b2-42bd-bfd8-6b99e89b2f6c@195.201.169.164:2096?encryption=none&security=reality&sni=www.yahoo.com&fp=firefox&pbk=CUudDcxwJoJ79caFM1yJZBqoeGnUa42RoCHUnGNA4Bw&sid=c7007f310f97e0&spx=%2Fimage.jpg&type=xhttp&path=%2Fcdn&mode=auto#%F0%9F%87%A9%F0%9F%87%AA532MMad-R-%E2%98%95%EF%B8%8F
-
-
+vless://f128503b-1835-4004-b095-43e5af931e4c@www.fghrsh.net:443?encryption=none&security=tls&sni=sni2.mmadcoffee.info&fp=firefox&insecure=0&allowInsecure=0&type=ws&host=raz2.mmadcoffee.info&path=%2F33089%2Fapi#%F0%9F%87%A9%F0%9F%87%AA533MMad-Edge-WS1
+vless://f128503b-1835-4004-b095-43e5af931e4c@www.spark.red:443?encryption=none&security=tls&sni=sni2.mmadcoffee.info&fp=firefox&insecure=0&allowInsecure=0&type=ws&host=raz2.mmadcoffee.info&path=%2F33089%2Fapi#%F0%9F%87%A9%F0%9F%87%AA533MMad-Edge-WS2
 
 
 
