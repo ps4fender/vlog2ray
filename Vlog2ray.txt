@@ -1,6 +1,8 @@
 vless://6bb26f80-52a3-47e7-8ea1-ffaf993cd5d6@195.201.169.164:2096?mode=auto&path=%2Fapi&security=reality&encryption=none&pbk=CUudDcxwJoJ79caFM1yJZBqoeGnUa42RoCHUnGNA4Bw&fp=firefox&spx=%2Fimage.jpg&type=xhttp&sni=www.yahoo.com&sid=c7007f310f97e0#%F0%9F%87%A9%F0%9F%87%AA534MMad-RLT-Irancell
 vless://4efd7be2-1d4d-4868-ad2d-ad6a693b7e2d@45.130.125.20:443?mode=auto&path=%2F17574%2Fapi&security=tls&encryption=none&insecure=0&host=mmad.kdns.fr&fp=firefox&type=xhttp&allowInsecure=0&sni=mmad.kdns.fr#%F0%9F%87%A9%F0%9F%87%AA534MMad-CF-xH-Hamrah1
 vless://4efd7be2-1d4d-4868-ad2d-ad6a693b7e2d@185.193.30.94:443?mode=auto&path=%2F17574%2Fapi&security=tls&encryption=none&insecure=0&host=mmad.kdns.fr&fp=firefox&type=xhttp&allowInsecure=0&sni=mmad.kdns.fr#%F0%9F%87%A9%F0%9F%87%AA534MMad-CF-xH-Hamrah2
+vless://3dbfde34-3728-4781-8f8b-7d0bb9e89498@lrghub.com:443?path=%2F29458%2Fedge&security=tls&encryption=mlkem768x25519plus.native.0rtt.Ix_14Xsr7xk1n7udhSIE6aAWE0Ookd97NahFP1cQUCY&insecure=0&host=ace.irandoc.info&fp=chrome&type=ws&allowInsecure=0&sni=sni.irandoc.info#%F0%9F%87%A9%F0%9F%87%AA535MMad-Edge-WS-ENC
+vless://3dbfde34-3728-4781-8f8b-7d0bb9e89498@storybot.aigcsoft.site:443?path=%2F29458%2Fedge&security=tls&encryption=mlkem768x25519plus.native.0rtt.Ix_14Xsr7xk1n7udhSIE6aAWE0Ookd97NahFP1cQUCY&insecure=0&host=ace.irandoc.info&fp=chrome&type=ws&allowInsecure=0&sni=sni.irandoc.info#%F0%9F%87%A9%F0%9F%87%AA535MMad-Edge-WS2-ENC
 
 
 
