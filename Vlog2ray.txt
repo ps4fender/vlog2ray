@@ -1,7 +1,5 @@
-vless://833a58fb-4a5b-49a5-bcaa-8e48e044a943@www.spdodoors.com:443?encryption=none&security=tls&sni=channel.irandoc.info&fp=firefox&fm=%7B%22tcp%22%3A%5B%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%22tlshello%22%2C%22length%22%3A%225-94%22%2C%22delay%22%3A%220%22%2C%22maxSplit%22%3A%22%22%7D%7D%2C%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%221-1%22%2C%22length%22%3A%22109-1%22%2C%22delay%22%3A%221%22%2C%22maxSplit%22%3A%22355%22%7D%7D%5D%7D&type=ws&host=dews.irandoc.info&path=%2F1001%2Fapi1#%F0%9F%87%A9%F0%9F%87%AA618MMad-Edge-WS
 vless://833a58fb-4a5b-49a5-bcaa-8e48e044a943@www.spdodoors.com:443?encryption=none&security=tls&sni=channel.irandoc.info&fp=firefox&alpn=h2%2Chttp%2F1.1&fm=%7B%22tcp%22%3A%5B%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%22tlshello%22%2C%22length%22%3A%225-94%22%2C%22delay%22%3A%220%22%2C%22maxSplit%22%3A%22%22%7D%7D%2C%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%221-1%22%2C%22length%22%3A%22109-1%22%2C%22delay%22%3A%221%22%2C%22maxSplit%22%3A%22355%22%7D%7D%5D%7D&type=httpupgrade&host=deh.irandoc.info&path=%2F1002%2Fapi1#%F0%9F%87%A9%F0%9F%87%AA618MMad-Edge-H
-
-
+vless://60722d6f-8b3a-4295-882b-58ca4185741d@jdzyw.com:443?encryption=mlkem768x25519plus.native.0rtt.55OiC1ErtBIrHTL_KgMG_YKH37Rjicr4b6CS9kO9vHw&security=tls&sni=deh.irandoc.info&fp=chrome&alpn=h3%2Ch2&type=httpupgrade&host=deh.irandoc.info&path=%2F45237%2Fapi4#%F0%9F%87%A9%F0%9F%87%AA619MMad-Edge-H
 
 
 
