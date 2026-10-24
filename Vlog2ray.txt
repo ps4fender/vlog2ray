@@ -1,10 +1,7 @@
-vless://b8a4352b-a82b-4e70-83ce-cce3b28adfd5@msydjt.com:443?encryption=none&security=tls&sni=msydjt.com&fp=firefox&fm=%7B%22tcp%22%3A%5B%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%22tlshello%22%2C%22length%22%3A%22104-1%22%2C%22delay%22%3A%220%22%2C%22maxSplit%22%3A%220%22%7D%7D%2C%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%221-1%22%2C%22length%22%3A%22114-1%22%2C%22delay%22%3A%221%22%2C%22maxSplit%22%3A%2211%22%7D%7D%5D%7D&type=httpupgrade&host=ded1up.samcdn.shop&path=%2F17718%2Fupdate#%F0%9F%87%A9%F0%9F%87%AA663MMad-Edge-H1
-vless://b8a4352b-a82b-4e70-83ce-cce3b28adfd5@msydjt.com:443?encryption=none&security=tls&sni=msydjt.com&fp=firefox&type=httpupgrade&host=ded1up.samcdn.shop&path=%2F17718%2Fupdate#%F0%9F%87%A9%F0%9F%87%AA663MMad-Edge-H2
-
-
-
-
-
+vless://ba889411-73ee-46a8-b2e6-7dafe01a1267@msydjt.com:443?encryption=mlkem768x25519plus.native.0rtt.6EY8I4VPDUiimLf38Ys8wfsKQYkud-Jpclh59ovzkGU&security=tls&sni=msydjt.com&fp=firefox&type=httpupgrade&host=ded1up.samcdn.shop&path=%2F17777%2Fmsn#%F0%9F%87%A9%F0%9F%87%AA664MMad-Edge-H1
+vless://ba889411-73ee-46a8-b2e6-7dafe01a1267@msydjt.com:443?encryption=mlkem768x25519plus.native.0rtt.6EY8I4VPDUiimLf38Ys8wfsKQYkud-Jpclh59ovzkGU&security=tls&sni=msydjt.com&fp=firefox&fm=%7B%22tcp%22%3A%5B%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%22tlshello%22%2C%22length%22%3A%22104-1%22%2C%22delay%22%3A%220%22%2C%22maxSplit%22%3A%220%22%7D%7D%2C%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%221-1%22%2C%22length%22%3A%22114-1%22%2C%22delay%22%3A%221%22%2C%22maxSplit%22%3A%2211%22%7D%7D%5D%7D&type=httpupgrade&host=ded1up.samcdn.shop&path=%2F17777%2Fmsn#%F0%9F%87%A9%F0%9F%87%AA664MMad-Edge-H2
+vless://ba889411-73ee-46a8-b2e6-7dafe01a1267@www.naviga-ting.com:443?encryption=mlkem768x25519plus.native.0rtt.6EY8I4VPDUiimLf38Ys8wfsKQYkud-Jpclh59ovzkGU&security=tls&sni=www.naviga-ting.com&fp=firefox&type=httpupgrade&host=ded1up.samcdn.shop&path=%2F17777%2Fmsn#%F0%9F%87%A9%F0%9F%87%AA664MMad-Edge-H3
+vless://ba889411-73ee-46a8-b2e6-7dafe01a1267@www.naviga-ting.com:443?encryption=mlkem768x25519plus.native.0rtt.6EY8I4VPDUiimLf38Ys8wfsKQYkud-Jpclh59ovzkGU&security=tls&sni=www.naviga-ting.com&fp=firefox&fm=%7B%22tcp%22%3A%5B%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%22tlshello%22%2C%22length%22%3A%22104-1%22%2C%22delay%22%3A%220%22%2C%22maxSplit%22%3A%220%22%7D%7D%2C%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%221-1%22%2C%22length%22%3A%22114-1%22%2C%22delay%22%3A%221%22%2C%22maxSplit%22%3A%2211%22%7D%7D%5D%7D&type=httpupgrade&host=ded1up.samcdn.shop&path=%2F17777%2Fmsn#%F0%9F%87%A9%F0%9F%87%AA664MMad-Edge-H4
 
 
 trojan://humanity@8.47.69.0:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.pleadcourt.org&type=ws&allowInsecure=0&sni=www.pleadcourt.org#Free%20x306%20%40Outline_Vpn
