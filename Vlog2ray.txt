@@ -1,3 +1,7 @@
+vless://0f472bb0-b882-4307-b1a1-9ad68e3f7b2e@www.shengti.net:443?encryption=mlkem768x25519plus.native.0rtt.Ln-pPNLKU4yJ3s7YbMUc6tSv0xIIe45qCdgw8Nut2jM&security=tls&sni=www.shengti.net&fp=chrome&type=httpupgrade&host=ded1http.samcdn.shop&path=%2Fup#%F0%9F%87%A9%F0%9F%87%AA667MMad-Edge-H2
+vless://0f472bb0-b882-4307-b1a1-9ad68e3f7b2e@www.naviga-ting.com:443?encryption=mlkem768x25519plus.native.0rtt.Ln-pPNLKU4yJ3s7YbMUc6tSv0xIIe45qCdgw8Nut2jM&security=tls&sni=www.naviga-ting.com&fp=chrome&type=httpupgrade&host=ded1http.samcdn.shop&path=%2Fup#%F0%9F%87%A9%F0%9F%87%AA667MMad-Edge-H1
+
+
 
 
 
