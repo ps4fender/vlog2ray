@@ -1,7 +1,8 @@
-vless://324fcf16-9b9e-44ec-98c5-905557048490@base.hrbgc.com:443?path=%2Fup&security=tls&encryption=mlkem768x25519plus.native.0rtt.N1YARVQLfhGHkJqK_JWjqchjZ8t6HyP0_9YWmYw47n4&insecure=0&host=d2h.irandoc.info&fp=chrome&type=httpupgrade&allowInsecure=0&sni=base.hrbgc.com#%F0%9F%87%A9%F0%9F%87%AA678%E2%98%95%EF%B8%8FMMad-Edge-H1
-vless://324fcf16-9b9e-44ec-98c5-905557048490@www.wjzhx.com:443?path=%2Fup&security=tls&encryption=mlkem768x25519plus.native.0rtt.N1YARVQLfhGHkJqK_JWjqchjZ8t6HyP0_9YWmYw47n4&insecure=0&host=d2h.irandoc.info&fp=chrome&type=httpupgrade&allowInsecure=0&sni=www.wjzhx.com#%F0%9F%87%A9%F0%9F%87%AA678%E2%98%95%EF%B8%8FMMad-Edge-H2
-vless://324fcf16-9b9e-44ec-98c5-905557048490@base.hrbgc.com:443?path=%2Fcss&security=tls&encryption=mlkem768x25519plus.native.0rtt.KsGEVLjeBylKviGS5FG4vzs0uqsPpJMG1h7gjBaKIG4&insecure=0&host=d2w.irandoc.info&fp=chrome&type=ws&allowInsecure=0&sni=base.hrbgc.com#%F0%9F%87%A9%F0%9F%87%AA678%E2%98%95%EF%B8%8FMMad-Edge-WS1
-vless://324fcf16-9b9e-44ec-98c5-905557048490@www.wjzhx.com:443?path=%2Fcss&security=tls&encryption=mlkem768x25519plus.native.0rtt.KsGEVLjeBylKviGS5FG4vzs0uqsPpJMG1h7gjBaKIG4&insecure=0&host=d2w.irandoc.info&fp=chrome&type=ws&allowInsecure=0&sni=www.wjzhx.com#%F0%9F%87%A9%F0%9F%87%AA678%E2%98%95%EF%B8%8FMMad-Edge-WS2
+vless://52b5346d-794b-4638-a988-58e4221866b0@zr.wiki:443?encryption=mlkem768x25519plus.native.0rtt.N1YARVQLfhGHkJqK_JWjqchjZ8t6HyP0_9YWmYw47n4&security=tls&sni=zr.wiki&fp=firefox&type=httpupgrade&host=d2h.ircloud.space&path=%2Fup#%F0%9F%87%A9%F0%9F%87%AA679MMad-Edge-H1
+vless://52b5346d-794b-4638-a988-58e4221866b0@tools.4i4u.com:443?encryption=mlkem768x25519plus.native.0rtt.N1YARVQLfhGHkJqK_JWjqchjZ8t6HyP0_9YWmYw47n4&security=tls&sni=tools.4i4u.com&fp=firefox&type=httpupgrade&host=d2h.ircloud.space&path=%2Fup#%F0%9F%87%A9%F0%9F%87%AA679MMad-Edge-H2
+vless://52b5346d-794b-4638-a988-58e4221866b0@zr.wiki:443?encryption=mlkem768x25519plus.native.0rtt.KsGEVLjeBylKviGS5FG4vzs0uqsPpJMG1h7gjBaKIG4&security=tls&sni=zr.wiki&fp=chrome&alpn=http%2F1.1&type=ws&host=d2w.ircloud.space&path=%2Fcss#%F0%9F%87%A9%F0%9F%87%AA679MMad-Edge-WS1
+vless://52b5346d-794b-4638-a988-58e4221866b0@tools.4i4u.com:443?encryption=mlkem768x25519plus.native.0rtt.KsGEVLjeBylKviGS5FG4vzs0uqsPpJMG1h7gjBaKIG4&security=tls&sni=tools.4i4u.com&fp=chrome&alpn=http%2F1.1&type=ws&host=d2w.ircloud.space&path=%2Fcss#%F0%9F%87%A9%F0%9F%87%AA679MMad-Edge-WS2
+
 
 
 
